@@ -1,0 +1,6 @@
+{
+  "name": "VaultX: Rise of the Financial Hunter",
+  "description": "Gamified learning platform for Python, Mathematics, Aptitude, and Reasoning with interactive quests, boss trials, and progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
